@@ -5,7 +5,7 @@
 
 ## 使い方
 
-(参考: atcoder-cli チュートリアル)[http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/]
+[参考: atcoder-cli チュートリアル](http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/)
 
 1. `acc new (コンテストID)` ...コンテストIDは コンテストのURL(例: `https://beta.atcoder.jp/contests/abc101`) の最後のスラッシュ以降の英数字
     - 問題選択画面が出るのでそのままエンターを押すとA問題がダウンロードされる
@@ -24,7 +24,7 @@
 
 ## 環境構築手順
 
-(参考: atcoder-cli インストールガイド)[http://tatamo.81.la/blog/2018/12/07/atcoder-cli-installation-guide/]
+[参考: atcoder-cli インストールガイド](http://tatamo.81.la/blog/2018/12/07/atcoder-cli-installation-guide/)
 
 1. node, npmがインストールされていなければする [Node.jsのHP](https://nodejs.org/ja/) ...npmも一緒に入る `node -v` `npm -v`で確認
 2. Pythonがインストールされていなければする(後述)
