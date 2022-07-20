@@ -1,7 +1,7 @@
 ## 概要
 
 - AtCoderのPython用環境
-- atcoder-cli(npm)とonline-judge-tools(pip3)を使用
+- atcoder-cliとonline-judge-toolsを使用
 
 ## 使い方
 
