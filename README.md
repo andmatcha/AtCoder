@@ -35,3 +35,9 @@
 
 - `pip3 freeze > requirements.txt`で`requirements.txt`を作成
 - requirements.txtにいろいろ書いてあるけど、online-judge-tools以外必要かどうかよくわかっていない
+- accのconfig.jsonを書き換えるといろいろできそう
+
+## 使えるコマンド
+
+- `acc -h`ヘルプを表示
+- `acc config-dir`configファイルのあるディレクトリのパスを表示
