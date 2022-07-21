@@ -1,18 +1,16 @@
 ## 概要
 
-- AtCoderのPython用環境
-- atcoder-cliとonline-judge-toolsを使用
+- AtCoderをローカルで解いて直接提出するための環境
+- atcoder-cli(npm)とonline-judge-tools(pip3)を使用
 
 ## 使い方
 
 [参考: atcoder-cli チュートリアル](http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/)
 
 1. `acc new (コンテストID)` ...コンテストIDは コンテストのURL(例: `https://beta.atcoder.jp/contests/abc101`) の最後のスラッシュ以降の英数字
-    - 問題選択画面が出るのでそのままエンターを押すとA問題がダウンロードされる
-    - 上下キーで移動し、スペースキーで複数選択、エンターで一括ダウンロードもできる
-    - 後から追加でダウンロードする場合は`acc add`
+    - 問題が一括ダウンロードされる
 2. 名前にコンテストIDがついたフォルダが作成されるのでそこに移動
-3. `a/`というフォルダがあるのでその中で.pyファイルを作成して解答する
+3. 問題ごとにフォルダがあるのでその中でファイルを作成して解答する
 4. `acc submit (ファイル名)`で提出
 
 ## 環境
